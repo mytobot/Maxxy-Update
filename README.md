@@ -31,9 +31,9 @@
 ## ```Thanks to ✨```
 * [`Allah SWT`](https://github.com/Maxxy-Md/Gg)
 * [`My parents`](https://github.com/Maxxy-Md/Gg)
-* [`All Friends`](https://github.com/AyGemuy/HinataBot)
-* [`All Contributors`](https://github.com/AyGemuy/HinataBot)
-* [`All Creator Bot`](https://github.com/AyGemuy/HinataBot)
+* [`All Friends`](https://github.com/Maxxy-Md/Maxxy-Update)
+* [`All Contributors`](https://github.com/Maxxy-Update)
+* [`All Creator Bot`](https://github.com/Maxxy-Update)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomo)
 * [`BochilGaming`](https://github.com/bochilgaming)
